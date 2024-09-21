@@ -1,4 +1,4 @@
-# Gemma 2 Finetuning
+# Small Language Models Finetuning
 
 Explorations around finetuning the [Gemma 2](https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315) models for learning and fun!
 
